@@ -7,3 +7,4 @@ Ahmad Zidny Rofi Amir
 
 
 kami menggunakan database localroom
+untuk membuat data pegawai/karyawan
